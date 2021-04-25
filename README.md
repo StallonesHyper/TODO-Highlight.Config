@@ -54,14 +54,16 @@ Click On The Gear Icon Next To Uninstall Button As Shown Below:
 
 ![](IMGS/5.jpg)
 
-## 5. Navigate Down: :file_folder:
-Navigate Down To Where It Says TODO Highlight: Keywords And Click On Edit In Settings.JSON As Shown In The Image Down Below.
 ![](IMGS/6.jpg)
 
+## 5. Navigate Down: :file_folder:
+Navigate Down To Where It Says TODO Highlight: Keywords And Click On Edit In Settings.JSON As Shown In The Image Down Below.
+
+![](IMGS/7.jpg)
 
 ## 6. Custom Code (This Repository): :paperclip:
 Copy The Code From [This Repository](https://github.com/StallonesHyper/TODO-Highlight.Config.git) Or Simply Navigate Above To File Named Settings.JSON
-![](IMGS/7.jpg)
+![](IMGS/8.jpg)
 
 
 
@@ -75,8 +77,7 @@ Copy The Code From [This Repository](https://github.com/StallonesHyper/TODO-High
 
 ## 7. Change Keywords: :pencil2:
 Change Keywords And Colours Based On Your Preferences...And Have Fun :wink:
-
-![](IMGS/8.jpg)
+![](IMGS/1.jpg)
 
 
 
