@@ -1,0 +1,128 @@
+{
+
+    //NOTE:
+    //FIXME:
+    //TODO::
+    //CONCEPT:
+    //REMEMBER:
+    //INPUT::
+    //OUTPUT:
+    //ERROR:
+
+
+    //Follow Instructions In Documentation Provided :
+
+
+"todohighlight.include":[
+    "**/*.cs",
+    "**/*.py",
+    "**/*.c",
+    "**/*.cpp",
+    "**/*.js",
+    "**/*.jsx",
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.html",
+    "**/*.php",
+    "**/*.css",
+    "**/*.scss"
+],
+"todohighlight.keywords": [
+    {
+        "text": "NOTE:",
+        "color": "black",
+        "backgroundColor": "gold",
+        "overviewRulerColor": "grey"
+    },
+
+    {
+        "text": "Note:",
+        "color": "black",
+        "backgroundColor": "gold",
+        "overviewRulerColor": "grey"
+    },
+
+    {
+        "text": "CONCEPT:",
+        "color": "#f7fff7",
+        "backgroundColor": "#013a63",
+        "overviewRulerColor": "grey"
+    },
+
+    {
+        "text": "Concept:",
+        "color": "#f7fff7",
+        "backgroundColor": "#013a63",
+        "overviewRulerColor": "grey"
+    },
+
+    {
+        "text": "TODO:",
+        "color": "#184e77",
+        "backgroundColor": "#d9ed92",
+        "overviewRulerColor": "grey"
+    },
+    {
+        "text": "ToDo:",
+        "color": "#184e77",
+        "backgroundColor": "#d9ed92",
+        "overviewRulerColor": "grey"
+    },
+
+    {
+        "text": "REMEMBER:",
+        "color": "#f3ffbd",
+        "backgroundColor": "#ff1654",
+        "overviewRulerColor": "grey"
+    },
+    {
+        "text": "Remember:",
+        "color": "#f3ffbd",
+        "backgroundColor": "#ff1654",
+        "overviewRulerColor": "grey"
+    },
+
+    {
+        "text": "OUTPUT:",
+        "color": "#004b23",
+        "backgroundColor": "#ccff33",
+        "overviewRulerColor": "grey"
+    },
+    {
+        "text": "Output:",
+        "color": "#004b23",
+        "backgroundColor": "#ccff33",
+        "overviewRulerColor": "grey"
+    },
+
+    {
+        "text": "ERROR:",
+        "color": "#f3ffbd",
+        "backgroundColor": "#aa0000",
+        "overviewRulerColor": "grey"
+    },
+    {
+        "text": "Error:",
+        "color": "#f3ffbd",
+        "backgroundColor": "#aa0000",
+        "overviewRulerColor": "grey"
+    },
+
+    {
+        "text": "INPUT:",
+        "color": "#ebebeb",
+        "backgroundColor": "#ff7700",
+        "overviewRulerColor": "grey"
+    },
+    {
+        "text": "Input:",
+        "color": "#ebebeb",
+        "backgroundColor": "#ff7700",
+        "overviewRulerColor": "grey"
+    }
+
+]
+
+}
+
+
